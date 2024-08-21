@@ -9,7 +9,7 @@ Hello! I'm Mahin Muntasir, a passionate and creative **UI/UX Designer** and **Wo
 - **Microsoft Office**: Word, Excel, PowerPoint
 - **Languages**: English, Bangla, Hindi, Urdu
 
-### 🌟 Graphic Design
+### 🌟 UI/UX Design
 With a strong background in graphic design, I excel in translating concepts into visually compelling designs. My work spans from logo creation to comprehensive branding solutions, all tailored to meet client needs.
 
 ### 🌐 WordPress Development
