@@ -74,12 +74,7 @@ Expert UI/UX Designer with over 2 years of experience, specializing in creating 
 - **Flexibility**
 - **Punctuality**
 
-
-### 🌟 UI/UX Design
-With expertise in Figma and a strong background in graphic design, I craft intuitive and visually appealing user interfaces. My focus on user experience ensures that every design is both functional and aesthetically engaging.
-
-### 🌐 WordPress Development
-As an experienced WordPress developer, I specialize in crafting engaging and functional websites. My coding expertise, coupled with an eye for design, allows me to create websites that are both aesthetically pleasing and user-friendly.
+---
 
 ### 📫 Get in Touch
 - **Portfolio**: [My Behance Profile](https://www.behance.net/bettercallmahin) | [My Dribbble Profile](https://dribbble.com/bettercallmahin)
