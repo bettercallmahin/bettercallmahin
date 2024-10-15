@@ -1,5 +1,4 @@
-<h1 align="center">Mahin Muntasir</h1>
-
+<h2 align="center">UI/UX Designer | Front End Developer</h2>
 <p align="center">
   <a href="mailto:bettercallmahin@gmail.com">
     <img src="https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white" />
@@ -14,10 +13,6 @@
     <img src="https://img.shields.io/badge/-Behance-0057FF?style=flat&logo=behance&logoColor=white" />
   </a>
 </p>
-
-
-
-<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
