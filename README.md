@@ -1,101 +1,63 @@
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bettercallmahin@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bettercallmahin) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bettercallmahin)
-[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://www.dribbble.com/bettercallmahin)
-[![Behance Badge](https://img.shields.io/badge/-Behance-0057FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/bettercallmahin)
+<h1 align="center">Mahin Muntasir</h1>
+
+<p align="center">
+  <a href="mailto:bettercallmahin@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bettercallmahin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/bettercallmahin">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.dribbble.com/bettercallmahin">
+    <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/bettercallmahin">
+    <img src="https://img.shields.io/badge/-Behance-0057FF?style=flat&logo=behance&logoColor=white" />
+  </a>
+</p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettercallmahin&theme=onedark&count_private=true&show_icons=true" width="420px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmahin&layout=compact&count_private=true&theme=onedark&count_private=true&show_icons=true" height="165px" width="375px" />
-</a>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettercallmahin&theme=onedark&count_private=true&show_icons=true" width="420px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmahin&layout=compact&count_private=true&theme=onedark&show_icons=true" height="165px" width="375px" />
+  </a>
+</p>
 
 
 
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Expert UI/UX Designer with over 2 years of experience, specializing in creating intuitive, user-focused designs. Proficient in front-end development, with a deep understanding of HTML, CSS, JavaScript, and React.js, ensuring seamless integration between design and functionality.
+</p>
+
+<p align="center">
+  My skills include crafting wireframes, prototypes, user flows, high-fidelity designs, mockups, and responsive designs for both mobile and web. I focus on front-end friendly, modular, and target-oriented designs, based on deep research and user-focused statistical analysis.
+</p>
 
 
-# Mahin Muntasir
 
-Expert UI/UX Designer with over 2 years of experience, specializing in creating intuitive, user-focused designs. Proficient in front-end development, with a deep understanding of HTML, CSS, JavaScript, and React.js, ensuring seamless integration between design and functionality. My skills include crafting wireframes, prototypes, user flows, high-fidelity designs, mockups, and responsive designs for both mobile and web. I focus on front-end friendly, modular, and target-oriented designs, based on deep research and user-focused statistical analysis, ensuring alignment with industry philosophy and client goals. My prototypes offer real-world experiences, closely mimicking live apps and websites. With a blend of creativity, deep research, and technical expertise, I deliver impactful solutions that align with both user needs and development requirements.
+<h2 align="center">Skills</h2>
 
-# Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/UI/UX%20Design-%F0%9F%93%85-blue" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Front--End%20Development-%F0%9F%92%BB-blue" alt="Front-End Development" />
+  <img src="https://img.shields.io/badge/Prototyping%20&%20Animation-%F0%9F%94%A5-blue" alt="Prototyping & Animation" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-%F0%9F%93%B7-blue" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/WordPress-%F0%9F%94%B8-blue" alt="WordPress" />
+</p>
 
-## UI/UX Design
-- **Mobile & Web Responsive**
-- **Front-end Friendly**
-- **Modular & Target Oriented**
-- **Wireframes**
-- **User Flows**
-- **High-Fidelity Designs**
-- **Mockups and Prototypes**
-- **Real World Experience**
 
-## Prototyping & Animation
-- **Interactive Prototypes**
-- **Smooth Animations**
-- **Design Tokens**
-- **Boolean Rules (Dark/Light Mode)**
+<p align="center">Feel free to explore my repositories to see my work, or reach out if you're interested in collaborating!</p>
+<img src="https://assets9.lottiefiles.com/private_files/lf30_gzrqf77r.json" alt="Lottie animation" width="200px">
 
-## Typography & Layout
-- **Responsive Typography**
-- **Responsive Grids**
-- **Design Variables**
-- **Auto Layout**
 
-## Project Documentation
-- **UX Research**
-- **Personas**
-- **Case Study**
-- **Design Philosophy**
-- **Statistical Analysis**
 
-## Graphic Design
-- **Branding**
-- **Visual Identity**
-- **Marketing Collateral Design**
-
-## Design Tools
-- **Figma**
-- **Adobe Illustrator**
-- **Adobe Photoshop**
-- **Canva**
-
-## Front End Development
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React.js**
-
-## WordPress Development
-- **Elementor**
-- **Custom Themes**
-- **Functional Websites**
-
-## Programming Languages
-- **C**
-- **C++**
-
-## Version Control
-- **GitHub**
-- **Git**
-
-## Language Proficiency
-- **Bangla**
-- **English**
-
-## Personal Skills
-- **Team Collaboration**
-- **Problem-Solving**
-- **Adaptability**
-- **Flexibility**
-- **Punctuality**
-
----
-
-### 📫 Get in Touch
-- **Portfolio**: [My Behance Profile](https://www.behance.net/bettercallmahin) | [My Dribbble Profile](https://dribbble.com/bettercallmahin)
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/bettercallmahin)
-- **Email**: bettercallmahin@gmail.com
-
-Feel free to explore my repositories to see my work, or reach out if you're interested in collaborating!
