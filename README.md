@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/bettercallmahin">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/bettercallmahin">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
   <a href="https://www.dribbble.com/bettercallmahin">
     <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" />
   </a>
@@ -57,7 +54,6 @@
 
 
 <p align="center">Feel free to explore my repositories to see my work, or reach out if you're interested in collaborating!</p>
-<img src="https://assets9.lottiefiles.com/private_files/lf30_gzrqf77r.json" alt="Lottie animation" width="200px">
 
 
 
