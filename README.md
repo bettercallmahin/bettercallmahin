@@ -28,13 +28,21 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Expert UI/UX Designer with over 2 years of experience, specializing in creating intuitive, user-focused designs. Proficient in front-end development, with a deep understanding of HTML, CSS, JavaScript, and React.js, ensuring seamless integration between design and functionality.
+Designer-turned-Front-End-Developer (or maybe it’s the other way around?)
+Here you’ll find me experimenting with ReactJS, tinkering with UIs, and occasionally committing bug-free code (it happens, okay?).
 </p>
 
 <p align="center">
-  My skills include crafting wireframes, prototypes, user flows, high-fidelity designs, mockups, and responsive designs for both mobile and web. I focus on front-end friendly, modular, and target-oriented designs, based on deep research and user-focused statistical analysis.
+I believe in readable code, reusable components, and never pushing directly to main.
+When I’m not coding, I’m probably pushing pixels in Figma or sketching wireframes on a napkin.
 </p>
 
+<p align="center">
+I don’t push sloppy code. I don’t ship broken UIs.
+But if someone does? bettercallmahin.
+<br>
+Follow me for code that actually matches the design.
+</p>
 
 
 <h2 align="center">Skills</h2>
